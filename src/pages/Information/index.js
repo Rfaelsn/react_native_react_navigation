@@ -3,7 +3,7 @@ import {View,Text} from 'react-native';
 
 export default function Contacts(){
     return(
-        <View>
+        <View style={{marginTop:40}}>
             <Text>Information</Text>
         </View>
     );
